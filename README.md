@@ -1,2 +1,2 @@
 # 2TDSR-SwModelo2-2022
-uso do GIT
+uso do GIT com HUB e FLOW
