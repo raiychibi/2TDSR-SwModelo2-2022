@@ -1,1 +1,1 @@
-# Guarde nessa pasta apenas arquivos .JAVA
+#Guarde arquivos .java

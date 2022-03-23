@@ -1,2 +1,3 @@
-# 2TDSR-SwModelo2-2022
-uso do GIT com HUB e FLOW
+#2TDSR-SwModel-2022
+Exemplificação GiT usando HUB e Flow
+#RevisÃ£o de aula
